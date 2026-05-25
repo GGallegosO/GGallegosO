@@ -1,4 +1,3 @@
-<h4 align="left">¡Hola 👋! Mi nombre es Gustavo y soy Estudiante de Analista Programador, de Chile 🇨🇱<br><br>💻 Apasionado por la tecnología y siempre buscando crecer y aprender más del rubro.<br>🚀 Actualmente explorando desarrollo web, backend y bases de datos.</h4>
 
 ###
 
@@ -37,13 +36,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GGallegosO/GGallegosO/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/GGallegosO/GGallegosO/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
