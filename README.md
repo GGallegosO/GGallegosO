@@ -1,7 +1,18 @@
-
 ###
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzl4b25zejRpbzI4YW9ieG10bGJ0d3ZnaGw5MTNmOTR6dXFocmY0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GGallegosO/GGallegosO/stats-output/stats.svg" alt="GitHub Stats" width="100%">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GGallegosO/GGallegosO/languages-output/languages.svg" alt="Top Languages" width="100%">
+</div>
 
 ###
 
@@ -35,5 +46,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-
